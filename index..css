@@ -1,0 +1,11 @@
+body {
+    background-color: aquamarine;
+    height: 1600px;
+}
+#box1 {
+    position: relative; /* absolute, fixed ????? ????? ????? */
+    width: 400px;
+    height: 200px;
+    left: 200px;
+    top: 300px;
+    border: solid 5px #000000;

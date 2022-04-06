@@ -1,0 +1,23 @@
+body, p { margin: 0; }
+#box1 {
+    position: relative;
+    width: 800px;
+    left: 60px;
+    top: 0;
+    background-color: #00ff00;
+    font-size: 0; 
+}
+#box1 > img {
+    width: 40%;
+}
+#box2 
+    position: absolute;
+    width: 800px;
+    height: 200px;
+    left: 400px;
+    top: 400px;
+    background-image: url("flower.jpg");
+    background-size: cover; 
+    background-position-y: center;
+    background-color: #0051ff;
+    font-size: 0; 
