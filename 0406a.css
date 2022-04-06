@@ -16,8 +16,8 @@ body, p { margin: 0; }
     height: 200px;
     left: 400px;
     top: 400px;
-    background-image: url("cat.png");
+    background-image: url(../ img/cat.png)
     background-size: cover; 
     background-position-y: center;
-    background-color: #0051ff;
+    background-color:  #0051ff;
     font-size: 0; 
